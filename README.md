@@ -6,7 +6,7 @@ Pendant l'exécution, le programme alloue de plus en plus de mémoire pour les p
 
 L'erreur se produit parce que la machine ne peut plus allouer suffisamment de mémoire pour contenir tous les paramètres dans le vecteur. Cela dépend des ressources disponibles, notamment la RAM et la gestion de la mémoire par le système d'exploitation.
 
-![error c++](https://github.com/user-attachments/assets/4cb69f4f-f4bc-4a92-9b6c-b33c0b23242b)
+![error c++](https://github.com/user-attachments/assets/0feef0f0-a5d7-4182-98db-929ab875efa4)
 
 ## Conclusion
 
